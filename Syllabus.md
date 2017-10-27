@@ -30,7 +30,7 @@ Email: chuntley@fairfield.edu
 * **Websites:**  
     * Class documents (including this syllabus) are [Dr. Huntley's is510-docs GitHub repository](https://github.com/christopherhuntley/is510-docs).
     * Programing assignments are posted and managed in [GitHub Classroom](https://classroom.github.com/classrooms/32963627-is510-databases-for-analytics-fall-2017).
-    
+
 ## Student Expectations
 This is a graduate class intended for serious professionals:
 * Expect to spend at least 12 hours per week attending class and completing your assignments.
@@ -65,4 +65,4 @@ Given the large class enrollment and the technical nature of the subject, it is 
 |Nov 28|Quiz 4: SQL DDL/DML<br>SQLAlchemy|Movies Tonight (part 5)<br>Project Kickoff|DataCamp|
 |Dec 5|Data Scrubbing and ETL|Project Workshop| |
 |**Dec 9**|Quiz 5: Python Integration|Project Workshop| |
-|Dec 12|Project Presentations: 10 minutes per team plus Q&A||||
+|Dec 12|Project Presentations: 10 minutes per team plus Q&A|||
