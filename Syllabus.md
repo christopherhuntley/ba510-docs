@@ -1,7 +1,9 @@
 # IS 510 Databases for Business Analytics
 *Fall 2017*
 ## Course Description
-This course introduces databases and data management in three parts.The first part covers basic database terminology. The second part is a hands-on introduction to Structured Query Language (SQL) for defining, manipulating, accessing, and managing data, accompanied by the basics of data modeling and normalization needed to ensure data integrity. Specific instruction will be given to the use of SQL data sources in Python/Pandas. The course concludes with a comprehensive data engineering project that gives each student the opportunity to integrate and apply their new knowledge and skills. Advanced topics such as distributed database systems, data services, and NoSQL databases are also studied as time permits. (Prerequisite: IS 505 or equivalent; Credit hours: 3)
+This course introduces databases and data management in three parts. The first part is an introduction to database terminology, with hands-on instructions in Structured Query Language (SQL) SELECT queries needed to extract data from a relational database.
+The second part is about SQL Data Definition and Manipulation queries, accompanied by the basics of data modeling and normalization needed to ensure data integrity. Specific instruction will be given to the use of SQL data sources in Python/Pandas. The course concludes in the third part with a comprehensive data engineering project that gives each student the opportunity to integrate and apply their new knowledge and skills. (Prerequisite: IS 505 or equivalent; Credit hours: 3)
+
 ## Learning Objectives
 
 * To introduce and reinforce fundamentals of data modeling and relational database systems
@@ -36,6 +38,7 @@ This is a graduate class intended for serious professionals:
 * Expect to spend at least 12 hours per week attending class and completing your assignments.
 * Do your own work. There is no professional benefit to pretending that somebody else's work is your own. We will follow the university's academic honesty policy to the letter.
 * Be a good teammate and class citizen. Free-riding and other unprofessional behavior will result in immediate consequences, which may include failing the course.
+* The course has IS 505 Python for Analytics as a pre-requisite. However, this pre-requisite may be waived for MBA and MSBA students who matriculated before Fall 2017. If you are one of these students, please notify the instructor to arrange for proper accommodation.
 
 *If you cannot abide by these policies then please take another course.*
 
@@ -51,7 +54,7 @@ Given the large class enrollment and the technical nature of the subject, it is 
 * Dates and assignments are subject to change, usually with one week's notice.
 * **Classwork** is to be completed before leaving class.
 * **Homework** is to be completed before the next class.
-* Saturday classes are shown **in bold**.
+* Saturday class dates are shown **in bold**.
 * **K/A #** refers to Kroenke and Auer Chapter #
 
 | Date | Topics          | Classwork | Homework |
