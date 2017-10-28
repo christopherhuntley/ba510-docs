@@ -30,7 +30,7 @@ Email: chuntley@fairfield.edu
 * **Reference Docs:** The official [MySQL Manual](https://dev.mysql.com/doc/refman/5.7/en) covers the MySQL server and coding. When in doubt, [RTFM](https://en.wikipedia.org/wiki/RTFM).
 * **Hardware:** Each student is expected to bring to class a recent-vintage laptop to class. The student must have admin rights to install software, manage ports, and set file permissions. The laptop should have at least 5GB of free space. In addition, they are expected to bring headphones / earbuds for doing online tutorials in class.
 * **Websites:**  
-    * Class documents (including this syllabus) are [Dr. Huntley's is510-docs GitHub repository](https://github.com/christopherhuntley/is510-docs).
+    * Class documents (including this syllabus) are in [Dr. Huntley's is510-docs GitHub repository](https://github.com/christopherhuntley/is510-docs).
     * Programing assignments are posted and managed in [GitHub Classroom](https://classroom.github.com/classrooms/32963627-is510-databases-for-analytics-fall-2017).
 
 ## Student Expectations
