@@ -38,7 +38,7 @@ This is a graduate class intended for serious professionals:
 * Expect to spend at least 12 hours per week attending class and completing your assignments.
 * Do your own work. There is no professional benefit to pretending that somebody else's work is your own. We will follow the university's academic honesty policy to the letter.
 * Be a good teammate and class citizen. Free-riding and other unprofessional behavior will result in immediate consequences, which may include failing the course.
-* The course has IS 505 Python for Analytics as a pre-requisite. However, this pre-requisite may be waived for MBA and MSBA students who matriculated before Fall 2017. If you are one of these students, please notify the instructor to arrange for proper accommodation.
+* IS 505 Python for Analytics is a pre-requisite for this course. However, this pre-requisite may be waived for MBA and MSBA students who matriculated before Fall 2017. If you are one of these students, please notify the instructor to arrange for proper accommodation.
 
 *If you cannot abide by these policies then please take another course.*
 
