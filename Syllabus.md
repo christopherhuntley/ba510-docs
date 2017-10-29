@@ -59,11 +59,11 @@ Given the large class enrollment and the technical nature of the subject, it is 
 
 | Date | Topics          | Classwork | Homework |
 |------|-----------------|-----------|----------|
-|Oct 31|Course Introduction<br>Software Setup<br>Database Concepts (K/A 1)|Software Installations<br>Account Registrations<br>System Check|K/A 1<br>DataCamp|
-|**Nov 4**|Quiz 1: Concepts<br>SQL Select Queries (K/A 2): Joins, Functions, Aggregates, Subqueries|Deals DB (part 1)|K/A 2 (skip pps 37-44, 48-58)<br>DataCamp|
+|Oct 31|Course Introduction<br>Software Setup<br>Database Concepts (K/A 1)|Software Installations<br>Account Registrations<br>Deals DB (Part1)|K/A 1<br>DataCamp|
+|**Nov 4**|Quiz 1: Concepts<br>SQL Select Queries (K/A 2): Joins, Functions, Aggregates, Subqueries|Deals DB (Part 2)|K/A 2 (skip pps 37-44, 48-58)<br>DataCamp|
 |Nov 7| SQL Select (continued)<br>Relational Model and Normalization (K/A 3)|Movies Tonight (part 1)|K/A 3|
 |Nov 14|Quiz 2: SQL Select Queries<br>Entity-Relationship Modeling (K/A 5)|Movies Tonight (part 2)|K/A 5,6|
-|**Nov 18**|Quiz 3: Relational Data Modeling<br>ERD → Table Designs (K/A 6)<br>SQL Data Definition (K/A 7)|Movies Tonight (part 3)|K/A 7|
+|**Nov 18**|Quiz 3: Relational Data Modeling<br>ERD → Table Designs (K/A 6)<br>SQL Data Definition (K/A 7)|Deals DB (Part3)<br>Movies Tonight (part 3)|K/A 7|
 |Nov 21|SQL Data Manipulation (K/A 7)<br>Python, Pandas, and SQL<br>Jupyter %sql magics|Movies Tonight (part 4),Deals DB (Part 2)|DataCamp|
 |Nov 28|Quiz 4: SQL DDL/DML<br>SQLAlchemy|Movies Tonight (part 5)<br>Project Kickoff|DataCamp|
 |Dec 5|Data Scrubbing and ETL|Project Workshop| |
