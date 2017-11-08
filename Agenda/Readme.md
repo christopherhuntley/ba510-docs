@@ -1,7 +1,6 @@
 ## November 7, 2017
 1. Guest Lecture from Yingyuan Yang
 2. K/A 2 (continued)
-3. [Quiz 2](https://docs.google.com/forms/d/e/1FAIpQLSdpqoBgKIH2xg3OoR3cYQuZwNyaalw8aaUUu_-U5S0mr9OuFg/viewform?usp=sf_link)
 4. [Kroenke/Auer Chapter 3](../Slides/L3_Relational_Model_And_Normalization.pdf)
 5. Classwork and Homework
     * Complete Movies Tonight Part 1
