@@ -5,4 +5,4 @@
     * Deals Part 3
     * Movies Tonight Part 2
     * DataCamp
-    * Study for Quiz 4
+    * Study for Quiz 4 (Nov 28)
