@@ -64,8 +64,8 @@ Given the large class enrollment and the technical nature of the subject, it is 
 |Nov 7| SQL Select (continued)<br>Relational Model and Normalization (K/A 3)|Movies Tonight (part 1)|K/A 3|
 |Nov 14|Quiz 2: SQL Select Queries<br>Entity-Relationship Modeling (K/A 5)|Movies Tonight (part 2)|K/A 5,6|
 |**Nov 18**|Quiz 3: Relational Data Modeling<br>ERD → Table Designs (K/A 6)<br>SQL Data Definition (K/A 7)|Deals DB (part 3)<br>Movies Tonight (part 3)|K/A 7|
-|Nov 21|SQL Data Manipulation (K/A 7)<br>Python, Pandas, and SQL<br>Jupyter %sql magics|Movies Tonight (part 4),Deals DB (Part 2)|DataCamp|
-|Nov 28|Quiz 4: SQL DDL/DML<br>SQLAlchemy|Movies Tonight (part 5)<br>Project Kickoff|DataCamp|
+|Nov 21|SQL Data Manipulation (K/A 7)<br>Python, Pandas, and SQL<br>Jupyter %sql magics|Movies Tonight (part 4)|DataCamp|
+|Nov 28|Quiz 4: SQL DDL/DML<br>SQLAlchemy|Movies Tonight (part 5)<br>Deals DB (Part 4)<br>Project Kickoff|DataCamp|
 |Dec 5|Data Scrubbing and ETL|Project Workshop| |
 |**Dec 9**|Quiz 5: Python Integration|Project Workshop| |
 |Dec 12|Project Presentations: 10 minutes per team plus Q&A|||
