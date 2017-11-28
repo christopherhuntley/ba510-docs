@@ -1,7 +1,8 @@
-## November 21, 2017
-1. Quiz 2 and Quiz 3 results
-2. [Kroenke/Auer Chapter 7 (DML only)](../Slides/L6_SQL_DML.pdf)
-3. Classwork and Homework
-    * [Movies Tonight Part 3](https://github.com/christopherhuntley/is510-movies-tonight#part-3-sql-dml)
+## November 28, 2017
+1. [Quiz 4](https://goo.gl/forms/wMvMgQ9SvYTcFPvG2)
+2. [Deals DB Part 4](https://github.com/christopherhuntley/is510-deals-database#part-4-jupyter)
+3. [Movies Tonight Part 5](https://classroom.github.com/a/MZMqSNy1)
+4. [Final Project](FinalProjects/Fall2017.md)
+5. Classwork and Homework
     * DataCamp
-    * Study for Quiz 4 (Nov 28)
+    * Study for Quiz 5 (Dec 9)
