@@ -6,4 +6,4 @@ _Fall 2017_
 * [Lectures](Slides)
 * [Tutorials](Tutorials)
 * [Downloads](Downloads)
-* Final Project
+* [Final Project](FinalProjects/Fall2017.md)
