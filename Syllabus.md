@@ -35,7 +35,7 @@ Email: chuntley@fairfield.edu
 * **Hardware:** Each student is expected to bring to class a recent-vintage laptop to class. If you intend to do the DataCamp tutorials in class, then please use earbuds so as not to disturb your classmates.
 * **Websites:**  
     * Class documents (including this syllabus) are in [Dr. Huntley's ba510-docs GitHub repository](https://github.com/christopherhuntley/ba510-docs).
-    * Coding assignments are posted and submitted though [GitHub Classroom](https://classroom.github.com/classrooms).
+    * Coding assignments are posted and submitted though [GitHub Classroom](https://classroom.github.com).
 
 ## Student Expectations
 This is a graduate class intended for serious professionals:
@@ -67,8 +67,8 @@ Given the large class enrollment and the technical nature of the subject, it is 
 |**Feb 2**| Quiz 1: Concepts,<br>SQL Select Queries<br>|Cape Codd DB (class notes),<br>Deals DB (part 2)|K/A 3,5<br> DataCamp|
 |Feb 5|Relational Model and Normalization (K/A 3),<br>Entity-Relationship Modeling (K/A 5)|Movies Tonight (parts 1 & 2)|K/A 6|
 |Feb 12|Quiz 2: SQL Select Queries,<br>ERD → Table Designs (K/A 6)<br>SQL Data Definition (K/A 7)|Deals DB (part 3)<br>Movies Tonight (part 3)|K/A 7|
-|**Feb 16**|Quiz 3: Relational Data Modeling,<br>SQL Data Manipulation (K/A 7)|Movies Tonight (part 4)|K/A 12, <br>DataCamp|
-|Feb 26|Data Warehousing, Business Intelligence, and Big Data (K/A 12)|Movies Tonight (part 5)<br>Deals DB (Part 4)<br>Project Kickoff|DataCamp|
-|Mar 5|Quiz 4: SQL DDL/DML|Project Workshop| &nbsp; |
-|**Mar 9**|Quiz 5: DB Applications|Project Workshop| |
+|**Feb 16**|SQL Data Manipulation (K/A 7)|Movies Tonight (part 4)|DataCamp|
+|Feb 26|Quiz 3: Relational Data Modeling,<br>Term Project Kickoff|Movies Tonight (part 5)<br>Deals DB (Part 4)|K/A 12,<br>DataCamp|
+|Mar 5|Data Warehousing, Business Intelligence, and Big Data (K/A 12)|Project Workshop| &nbsp; |
+|**Mar 9**|Quiz 4: SQL DDL/DML|Project Workshop| |
 |Mar 12|Project Presentations: 10 minutes per team plus Q&A| &nbsp; |  &nbsp; |
