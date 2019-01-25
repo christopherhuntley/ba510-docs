@@ -50,7 +50,7 @@ This is a graduate class intended for serious professionals:
 ### Quizzes (50% of Course Grade)
 There will be five quizzes, with the lowest grade dropped from your quiz average. They will be given on the days shown in the attached schedule of classes. Quizzes are closed book and closed notes. They are designed to last about 25 minutes, though students will be permitted to work on them up to 40 minutes. The remainder of the class time will be devoted to new material. Please notify the instructor if you require extra time or support services.  
 ### Final Project (40% of Course Grade)
-The final project is meant to a demonstration that the course objectives have been met. Teams will work in teams of 2-3 to complete a project of intermediate complexity and scope. Project details and requirements will be distributed in the fifth week of class.
+The final project is meant to a demonstration that the course objectives have been met. Teams will work in teams of 2-3 to complete a project of intermediate complexity and scope. Project details and requirements will be distributed on February 26.
 ### Professionalism (10% of Course Grade)
 Given the large class enrollment and the technical nature of the subject, it is critical that everyone take a professional approach to learning the material. Students are expected to come to class prepared and then participate in all activities to the best of their abilities. Cheating, free-riding, and other unprofessional behavior will not be tolerated.   
 
@@ -64,11 +64,11 @@ Given the large class enrollment and the technical nature of the subject, it is 
 | Date | Topics          | Classwork | Homework |
 |------|-----------------|-----------|----------|
 |Jan 29| Course Introduction,<br>Software Setup,<br>Rudimentary Database Concepts (K/A 1),<br>SQL Intro (time permitting)|Account Registrations,<br>Deals DB (part 1)|K/A 1,<br>K/A 2 (as directed),<br>DataCamp|
-|**Feb 2**| Quiz 1: Concepts,<br>SQL Select Queries<br>|Cape Codd DB (class notes),<br>Deals DB (part 2)|K/A 3,5<br> DataCamp|
-|Feb 5|Relational Model and Normalization (K/A 3),<br>Entity-Relationship Modeling (K/A 5)|Movies Tonight (parts 1 & 2)|K/A 6|
-|Feb 12|Quiz 2: SQL Select Queries,<br>ERD → Table Designs (K/A 6)<br>SQL Data Definition (K/A 7)|Deals DB (part 3)<br>Movies Tonight (part 3)|K/A 7|
-|**Feb 16**|SQL Data Manipulation (K/A 7)|Movies Tonight (part 4)|DataCamp|
-|Feb 26|Quiz 3: Relational Data Modeling,<br>Term Project Kickoff|Movies Tonight (part 5)<br>Deals DB (Part 4)|K/A 12,<br>DataCamp|
+|**Feb 2**|Quiz 1: Concepts,<br>SQL Select Queries<br>|Cape Codd DB (class notes),<br>Deals DB (part 2)|K/A 3,5<br> DataCamp|
+|Feb 5|Quiz 2: SQL Select Queries,<br>Relational Model and Normalization (K/A 3),<br>Entity-Relationship Modeling (K/A 5)|Movies Tonight (parts 1 & 2)|K/A 6|
+|Feb 12|ERD → Table Designs (K/A 6)<br>SQL Data Definition (K/A 7)|Deals DB (part 3)<br>Movies Tonight (part 3)|K/A 7|
+|**Feb 16**|Quiz 3: Relational Data Modeling,<br>SQL Data Manipulation (K/A 7)|Movies Tonight (part 4)|DataCamp|
+|Feb 26|Quiz 4: SQL DDL/DML,<br>Term Project Kickoff|Movies Tonight (part 5)<br>Deals DB (Part 4)|K/A 12,<br>DataCamp|
 |Mar 5|Data Warehousing, Business Intelligence, and Big Data (K/A 12)|Project Workshop| &nbsp; |
-|**Mar 9**|Quiz 4: SQL DDL/DML|Project Workshop| |
+|**Mar 9**|Quiz 5: Data Warehousing, Business Intelligence, and Big Data|Project Workshop| |
 |Mar 12|Project Presentations: 10 minutes per team plus Q&A| &nbsp; |  &nbsp; |
