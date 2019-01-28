@@ -1,5 +1,11 @@
-## December 12, 2017
-1. Final Presentations
-2. [Course Evaluations](https://theideaonline.org/cs/survey?S=3067839/X/F/F/2773238020)
-3. Classwork and Homework
-    * [Peer Reviews](https://docs.google.com/forms/d/e/1FAIpQLSc-bHA22GClw1JEbXY6SuLbGuIehPXYt0HoKv3fBudqh608kA/viewform?usp=sf_link)
+# Class Agendas
+- [January 29](012919.md)
+- February 2
+- February 5
+- February 12
+- February 16
+- February 19 -- No Class
+- February 26
+- March 5
+- March 9
+- March 12
