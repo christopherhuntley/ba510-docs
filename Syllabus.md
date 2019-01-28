@@ -32,7 +32,7 @@ Email: chuntley@fairfield.edu
 * **Online Tutorials:** [DataCamp](https://www.datacamp.com)'s online SQL courses plus a few bespoke case projects designed to accompany the lectures.
 * **Software:** JupyterLab (editor & runtime environment), MySQL (database server), SQLite (file-based RDB), Lucidchart (diagramming tool), GitHub (source control).
 * **Reference Docs:** The official [MySQL Manual](https://dev.mysql.com/doc/refman/5.7/en) covers the MySQL server and coding. SQLite is covered [here](https://www.sqlite.org/docs.html). When in doubt, [RTFM](https://en.wikipedia.org/wiki/RTFM).
-* **Hardware:** Each student is expected to bring to class a recent-vintage laptop to class. If you intend to do the DataCamp tutorials in class, then please use earbuds so as not to disturb your classmates.
+* **Hardware:** Each student is expected to bring a recent-vintage laptop to class. If you intend to do the DataCamp tutorials in class, then please use earbuds so as not to disturb your classmates.
 * **Websites:**  
     * Class documents (including this syllabus) are in [Dr. Huntley's ba510-docs GitHub repository](https://github.com/christopherhuntley/ba510-docs).
     * Coding assignments are posted and submitted though [GitHub Classroom](https://classroom.github.com).
