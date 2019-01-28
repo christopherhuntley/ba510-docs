@@ -52,7 +52,9 @@ There will be five quizzes, with the lowest grade dropped from your quiz average
 ### Final Project (40% of Course Grade)
 The final project is meant to a demonstration that the course objectives have been met. Teams will work in teams of 2-3 to complete a project of intermediate complexity and scope. Project details and requirements will be distributed on February 26.
 ### Professionalism (10% of Course Grade)
-Given the large class enrollment and the technical nature of the subject, it is critical that everyone take a professional approach to learning the material. Students are expected to come to class prepared and then participate in all activities to the best of their abilities. Cheating, free-riding, and other unprofessional behavior will not be tolerated.   
+Given the large class enrollment and the technical nature of the subject, it is critical that everyone take a professional approach to learning the material. Students are expected to come to class prepared and then participate in all activities to the best of their abilities. Cheating, free-riding, and other unprofessional behavior will not be tolerated.  
+### Grading Scale
+All scores will be scaled to a GPA scale *before* they are included in your course grade. The scaling formula will be given in the first class period.
 
 ## Schedule
 * **Dates and assignments are subject to change**, often with less than one week's notice. Consult the online class agendas for the most up-to-date information.
