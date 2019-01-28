@@ -5,5 +5,4 @@ _Spring 2019_
 * [Agendas](Agenda)
 * [Lectures](Slides)
 * [Tutorials](Tutorials)
-* [Downloads](Downloads)
 * Final Project
