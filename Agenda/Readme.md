@@ -1,6 +1,6 @@
 # Class Agendas
 - [January 29](012919.md)
-- February 2
+- [February 2](020219.md)
 - February 5
 - February 12
 - February 16

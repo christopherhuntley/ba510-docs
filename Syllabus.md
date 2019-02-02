@@ -66,8 +66,8 @@ All scores will be scaled to a GPA scale *before* they are included in your cour
 | Date | Topics          | Classwork | Homework |
 |------|-----------------|-----------|----------|
 |Jan 29| Course Introduction,<br>Software Setup,<br>Rudimentary Database Concepts (K/A 1),<br>SQL Intro (time permitting)|Account Registrations,<br>Deals DB (part 1)|K/A 1,<br>K/A 2 (as directed),<br>DataCamp|
-|**Feb 2**|Quiz 1: Concepts,<br>SQL Select Queries<br>|Cape Codd DB (class notes),<br>Deals DB (part 2)|K/A 3,5<br> DataCamp|
-|Feb 5|Quiz 2: SQL Select Queries,<br>Relational Model and Normalization (K/A 3),<br>Entity-Relationship Modeling (K/A 5)|Movies Tonight (parts 1 & 2)|K/A 6|
+|**Feb 2**|Quiz 1: Concepts,<br>SQL Select Queries<br>|Cape Codd DB (class notes),<br>Deals DB (part 2),<br>Baseball Stats (part 1)|K/A 3,5<br> DataCamp|
+|Feb 5|Quiz 2: SQL Select Queries,<br>Relational Model and Normalization (K/A 3),<br>Entity-Relationship Modeling (K/A 5)|Movies Tonight (parts 1 & 2),<br>Baseball Stats (part2)|K/A 6|
 |Feb 12|ERD → Table Designs (K/A 6)<br>SQL Data Definition (K/A 7)|Movies Tonight (part 3)|K/A 7|
 |**Feb 16**|Quiz 3: Relational Data Modeling,<br>SQL Data Manipulation (K/A 7)|Movies Tonight (part 4)|DataCamp|
 |Feb 26|Quiz 4: SQL DDL/DML,<br>Term Project Kickoff|Movies Tonight (part 5)|K/A 12,<br>DataCamp|
