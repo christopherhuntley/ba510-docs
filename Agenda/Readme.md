@@ -3,7 +3,7 @@
 - [February 2](020219.md)
 - [February 5](020519.md)
 - [February 12](021219.md)
-- February 16
+- [February 16](021619.md)
 - February 19 -- No Class
 - February 26
 - March 5
