@@ -1,0 +1,11 @@
+# Class Agendas
+- [January 29](012919.md)
+- [February 2](020219.md)
+- [February 5](020519.md)
+- [February 12](021219.md)
+- [February 16](021619.md)
+- February 19 -- No Class
+- [February 26](022619.md)
+- [March 5](030519.md)
+- [March 9](030919.md)
+- [March 12](031219.md)

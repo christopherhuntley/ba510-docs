@@ -1,5 +1,5 @@
 # BA 510 Databases for Business Analytics
-*Spring 2019*
+*Spring 2020*
 ## Course Description
 This course introduces databases and data management in four parts:
 1. __An introduction to database terminology__, with hands-on instructions in Structured Query Language (SQL) SELECT queries needed to extract data from a relational database.
@@ -12,19 +12,18 @@ This course introduces databases and data management in four parts:
 ## Learning Objectives
 
 * To introduce and reinforce fundamentals of data modeling and relational database systems
-* To provide students with hands-on knowledge of Structured Query Language
+* To develop hands-on Structured Query Language skills
 * To provide students with an understanding of design skills needed to create databases from original source data
-* To enable each student to apply course concepts through a database-based business analytics project
+* To apply course concepts through a database-backed business analytics project
 
 
 ## Instructor
 Christopher L. Huntley  
-Dolan School of Business, Room 1122  
+Dolan School of Business, DSBN 205E  
 Email: chuntley@fairfield.edu  
 
 ## Office Hours
-  * Tuesdays 5:00-6:15pm
-  * Mondays and Thursdays 12:15-1:00pm  
+  * Tuesdays, Wednesdays & Thursdays 5:00-6:15pm 
   * Other times are by appointment only. However, email works well, especially when the instructor is otherwise unavailable.
 
 ## Resources
@@ -39,10 +38,10 @@ Email: chuntley@fairfield.edu
 
 ## Student Expectations
 This is a graduate class intended for serious professionals:
-* Expect to spend at least 12 hours per week attending class and completing your assignments (and be pleasantly surprised if you finish early).
+* Expect to spend 6-10 hours per week attending class and completing your assignments (and be pleasantly surprised if you finish early).
 * Do your own work. There is no professional benefit to pretending that somebody else's work is your own. We will follow the university's academic honesty policy to the letter.
 * Be a good teammate and class citizen. Free-riding and other unprofessional behavior will result in immediate consequences, which may include failing the course.
-* This is a SQL-based introduction to relational databases. The goal is language fluency. That means writing lots of SQL code by hand, eventually without referring to the manual.  
+* This is a SQL-based introduction to relational databases. The goal is language fluency. That means writing lots of SQL code by hand on keyboard, eventually without referring to the manual.  
 
 *If you cannot abide by these policies then please take another course.*
 
@@ -60,17 +59,23 @@ All scores will be scaled to a GPA scale *before* they are included in your cour
 * **Dates and assignments are subject to change**, often with less than one week's notice. Consult the online class agendas for the most up-to-date information.
 * **Classwork** is to be completed before leaving class.
 * **Homework** is to be completed before the next class.
-* Saturday class dates are shown **in bold**.
 * **K/A *X*** refers to Kroenke & Auer Chapter X
 
-| Date | Topics          | Classwork | Homework |
+| Week | Topics          | Classwork | Homework |
 |------|-----------------|-----------|----------|
-|Jan 29| Course Introduction,<br>Software Setup,<br>Rudimentary Database Concepts (K/A 1),<br>SQL Intro (time permitting)|Account Registrations,<br>Deals DB (part 1)|K/A 1,<br>K/A 2 (as directed),<br>DataCamp|
-|**Feb 2**|Quiz 1: Concepts,<br>SQL Select Queries<br>|Cape Codd DB (class notes),<br>Deals DB (part 2),<br>Baseball Stats (part 1)|K/A 3,5<br> DataCamp|
-|Feb 5|Quiz 2: SQL Select Queries,<br>Relational Model and Normalization (K/A 3),<br>Entity-Relationship Modeling (K/A 5)|Movies Tonight (parts 1 & 2),<br>Baseball Stats (part2)|K/A 6|
-|Feb 12|ERD → Table Designs (K/A 6)<br>SQL Data Definition (K/A 7)|Movies Tonight (part 3)|K/A 7|
-|**Feb 16**|Quiz 3: Relational Data Modeling,<br>SQL Data Manipulation (K/A 7)|Movies Tonight (part 4)|DataCamp|
-|Feb 26|Quiz 4: SQL DDL/DML,<br>Term Project Kickoff|Movies Tonight (part 5)|K/A 12,<br>DataCamp|
-|Mar 5|Data Warehousing, Business Intelligence, and Big Data (K/A 12)|Project Workshop| &nbsp; |
-|**Mar 9**|Quiz 5: Data Warehousing, Business Intelligence, and Big Data|Project Workshop| |
-|Mar 12|Project Presentations: 10 minutes per team plus Q&A| &nbsp; |  &nbsp; |
+| Jan 21/22 | Course Introduction,<br>Software Setup,<br>Rudimentary Database Concepts (K/A 1),<br>SQL Intro (time permitting)|Account Registrations,<br>Deals DB (part 1)|K/A 1,<br>K/A 2 (as directed)|
+| Jan 28/29 | Quiz 1: Data Management, <br>SQL SELECT Basics | Cape Codd DB (class notes) | K/A 2 (as directed), <br>DataCamp|
+| Feb 4/5 | SQL SELECT Calculations, Aggregations, and Joins| Deals DB (part 2),<br>Baseball Stats (part 1)|K/A 3,5<br> DataCamp|
+| Feb 11/12  | Quiz 2: SQL Select Queries, <br>Relational Model and Normalization <br>Entity-Relationship Modeling (K/A 5) | Movies Tonight (parts 1 & 2) | K/A 6 <br> K/A 7 (DDL)<br>Baseball Stats (part2) |
+| Feb 18/19 | ERD → Table Designs (K/A 6), <br>SQL Data Definition (K/A 7)| Movies Tonight (part 3) | K/A 7 (DML) |
+| Feb 25/26 | Quiz 3: Relational Data Modeling,<br> SQL Data Manipulation (K/A 7)| Movies Tonight (part 4)|DataCamp|
+| Mar 3/4| Term Project Kickoff | Course Data ERD | |
+| Mar 10/11 | Spring Break! | &nbsp; | &nbsp; |
+| Mar 17/18 | Quiz 4: SQL DDL/DML,  | Movies Tonight (part 5), <br> Project Workshop: Normalized Data Model | K/A 12, <br>DataCamp |
+| Mar 24/25 | Data Warehousing & Business Intelligence | Project Workshop: Warehouse Requirements | KA App J,K |
+| Mar 31, <br>Apr 1 | Big Data & NoSQL | Project Workshop: Star Schema Design | |
+| Apr 7/8 | Quiz 5: Data Warehousing, Business Intelligence, and Big Data | Project Workshop: DW ETL | |
+| Apr 14/15 | Guest Speaker | Project Workshop: Testing & Debugging | &nbsp; |
+| Apr 21/22 | Guest Speaker | Project Workshop: Final Report | &nbsp; |
+| Apr 28/29 | Final Presentations (10 minutes per team plus Q&A) | &nbsp; | &nbsp; |
+
