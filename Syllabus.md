@@ -73,7 +73,7 @@ All scores will be scaled to a GPA scale *before* they are included in your cour
 | Mar 10/11 | Spring Break! | &nbsp; | &nbsp; |
 | Mar 17/18 | Quiz 4: SQL DDL/DML,  | Movies Tonight (part 5), <br> Project Workshop: Normalized Data Model | K/A 12, <br>DataCamp |
 | Mar 24/25 | Data Warehousing & Business Intelligence | Project Workshop: Warehouse Requirements | KA App J,K |
-| Mar 31, <br>Apr 1 | Big Data & NoSQL | Project Workshop: Star Schema Design | |
+| Mar 31 /<br>Apr 1 | Big Data & NoSQL | Project Workshop: Star Schema Design | |
 | Apr 7/8 | Quiz 5: Data Warehousing, Business Intelligence, and Big Data | Project Workshop: DW ETL | |
 | Apr 14/15 | Guest Speaker | Project Workshop: Testing & Debugging | &nbsp; |
 | Apr 21/22 | Guest Speaker | Project Workshop: Final Report | &nbsp; |
