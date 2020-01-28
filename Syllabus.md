@@ -65,7 +65,7 @@ All scores will be scaled to a GPA scale *before* they are included in your cour
 |------|-----------------|-----------|----------|
 | Jan 21/22 | Course Introduction,<br>Software Setup,<br>Rudimentary Database Concepts (K/A 1),<br>SQL Intro (time permitting)|Account Registrations,<br>Deals DB (part 1)|K/A 1,<br>K/A 2 (as directed)|
 | Jan 28/29 | Quiz 1: Data Management, <br>SQL SELECT Basics | Cape Codd DB (class notes) | K/A 2 (as directed), <br>DataCamp|
-| Feb 4/5 | SQL SELECT Calculations, Aggregations, and Joins| Deals DB (part 2),<br>Baseball Stats (part 1)|K/A 3,5<br> DataCamp|
+| Feb 4/5 | SQL SELECT Calculations, Aggregations, and Joins <br>SQLite Basics| Deals DB (part 2),<br>Baseball Stats (part 1)|K/A 3,5<br> DataCamp|
 | Feb 11/12  | Quiz 2: SQL Select Queries, <br>Relational Model and Normalization <br>Entity-Relationship Modeling (K/A 5) | Movies Tonight (parts 1 & 2) | K/A 6 <br> K/A 7 (DDL)<br>Baseball Stats (part2) |
 | Feb 18/19 | ERD → Table Designs (K/A 6), <br>SQL Data Definition (K/A 7)| Movies Tonight (part 3) | K/A 7 (DML) |
 | Feb 25/26 | Quiz 3: Relational Data Modeling,<br> SQL Data Manipulation (K/A 7)| Movies Tonight (part 4)|DataCamp|
