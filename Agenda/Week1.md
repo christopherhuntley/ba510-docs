@@ -1,4 +1,4 @@
-## Week 1: Jan 21/22, 2020
+## Week 1: Jan 21/22, 2019
 1. Introductions
 2. [Course Onboarding](../Slides/L0_Course_Onboarding.pdf)
 3. [Kroenke/Auer Chapter 1](../Slides/L1_Introduction.pdf)
