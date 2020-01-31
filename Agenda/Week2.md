@@ -1,4 +1,4 @@
-## Week 2: Jan 28/29, 2019
+## Week 2: Jan 28/29, 2020
 1. [Quiz 1](https://docs.google.com/forms/d/e/1FAIpQLSfvbpipOGOeqGehSIL0q7Ctl8_zT2ZKHuMCiGrD0AHTFU6r4A/viewform?usp=sf_link)
 (You will need to be logged into your **student.fairfield.edu** Google account *in the same window* as this link. Otherwise you will get a "You Need Permission" message)
 2. [Kroenke & Auer Chapter 2](../Slides/L2_SQL_Select_Queries.pdf) (Up to ~ the Calculations section; will finish next week)
