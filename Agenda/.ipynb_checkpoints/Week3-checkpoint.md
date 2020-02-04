@@ -1,4 +1,4 @@
-## Week 2: Feb 4/5, 2020
+## Week 3: Feb 4/5, 2020
 1. Quiz 1 results
 2. [Kroenke & Auer Chapter 2](../Slides/L2_SQL_Select_Queries.pdf) (continuation from last week)
 3. [Basic SQLite Usage](../Slides/L3_Basic_SQLite_Usage.pdf) (if needed)
