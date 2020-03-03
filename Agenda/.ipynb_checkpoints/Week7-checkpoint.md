@@ -1,7 +1,7 @@
 ## Week 6: March 3/4, 2020
 
 1. Baseball Stats Part 2
-2. Quiz 3
+2. [Quiz 3](https://docs.google.com/forms/d/e/1FAIpQLSepKbTTFF5S-8yPh9RDMgiUP0117SW3S30Endy6I1z-iBOJwA/viewform?usp=sf_link)
 3. Movies Tonight Part 4
 4. Final projects
     - Form teams of 2-3 in GitHub Classroom
