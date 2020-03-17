@@ -10,7 +10,6 @@
     * Use the Zoom Chat to ask for help (and please be patient as there may be people ahead of you in line)
     * Will keep the class Zoom session open until ~9:00pm or everybody has left  the meeting (whichever happens first)
 5. Classwork and Homework
-    * Study for Quiz 4, which covers all of K/A 6 and 7
     * DataCamp
     * Read K/A 12
     * Work with your team on the Term Project
