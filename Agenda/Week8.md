@@ -18,20 +18,27 @@
 Need help? Follow these [instructions](https://quip.com/rULNAVPjKQlj).
 Please do not join the meeting until the time given. 
 
->Topic: BA510 Week 8 (Section 1)  
+
+>Christopher Huntley is inviting you to a scheduled Zoom meeting.
+>
+>Topic: BA510 Week 8 (Section 1)
 >Time: Mar 17, 2020 06:00 PM Eastern Time (US and Canada)
 >
 >Join Zoom Meeting
-https://Fairfield.zoom.us/j/561345908
+>https://Fairfield.zoom.us/j/561345908
 >
 >Meeting ID: 561 345 908
 >
 >One tap mobile
+>+13126266799,,561345908# US (Chicago)
 >+16468769923,,561345908# US (New York)
->+16699006833,,561345908# US (San Jose)
 >
 >Dial by your location
+>        +1 312 626 6799 US (Chicago)
 >        +1 646 876 9923 US (New York)
+>        +1 253 215 8782 US
+>        +1 301 715 8592 US
+>        +1 346 248 7799 US (Houston)
 >        +1 669 900 6833 US (San Jose)
 >Meeting ID: 561 345 908
 >Find your local number: https://Fairfield.zoom.us/u/acvDnwFcGq
