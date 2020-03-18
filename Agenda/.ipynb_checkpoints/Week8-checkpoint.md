@@ -14,31 +14,32 @@
     * Read K/A 12
     * Work with your team on the Term Project
 
-# Zoom Invitation
-Need help? Follow these [instructions](https://quip.com/rULNAVPjKQlj).
+# Zoom Invitation>Need help? Follow these [instructions](https://quip.com/rULNAVPjKQlj).
+
 Please do not join the meeting until the time given. 
 
 
 >Christopher Huntley is inviting you to a scheduled Zoom meeting.
 >
->Topic: BA510 Week 8 (Section 1)
->Time: Mar 17, 2020 06:00 PM Eastern Time (US and Canada)
+>Topic: BA 510 Week 8 (Section 2)
+>Time: Mar 18, 2020 06:00 PM Eastern Time (US and Canada)
 >
 >Join Zoom Meeting
->https://Fairfield.zoom.us/j/561345908
+>https://Fairfield.zoom.us/j/738127466
 >
->Meeting ID: 561 345 908
+>Meeting ID: 738 127 466
 >
 >One tap mobile
->+13126266799,,561345908# US (Chicago)
->+16468769923,,561345908# US (New York)
+>+13126266799,,738127466# US (Chicago)
+>+16468769923,,738127466# US (New York)
 >
 >Dial by your location
 >        +1 312 626 6799 US (Chicago)
 >        +1 646 876 9923 US (New York)
->        +1 253 215 8782 US
->        +1 301 715 8592 US
 >        +1 346 248 7799 US (Houston)
 >        +1 669 900 6833 US (San Jose)
->Meeting ID: 561 345 908
+>        +1 253 215 8782 US
+>        +1 301 715 8592 US
+>Meeting ID: 738 127 466
 >Find your local number: https://Fairfield.zoom.us/u/acvDnwFcGq
+
