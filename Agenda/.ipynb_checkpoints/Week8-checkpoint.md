@@ -14,7 +14,8 @@
     * Read K/A 12
     * Work with your team on the Term Project
 
-# Zoom Invitation>Need help? Follow these [instructions](https://quip.com/rULNAVPjKQlj).
+# Zoom Invitation>Need help? 
+Follow these [instructions](https://quip.com/rULNAVPjKQlj).
 
 Please do not join the meeting until the time given. 
 
