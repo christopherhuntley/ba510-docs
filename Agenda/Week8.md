@@ -10,6 +10,7 @@
     * Use the Zoom Chat to ask for help (and please be patient as there may be people ahead of you in line)
     * Will keep the class Zoom session open until ~9:00pm or everybody has left  the meeting (whichever happens first)
 5. Classwork and Homework
+    * (optional) Study how [SqlAlchemy and Pandas](../Slides/L9_SqlAlchemy_Pandas.pdf) work with SQL; you'll likely find it useful for your project
     * DataCamp
     * Read K/A 12
     * Work with your team on the Term Project
