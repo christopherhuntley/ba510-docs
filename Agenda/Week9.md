@@ -5,7 +5,7 @@
 3. Project Workshop 
     * Finalize your data model (Step 2)
     * Develop ETL code (in Juptyer) for the `CourseData.db` database (Step 3)
-    * Create queries to test the integrity of `CourseDB.db` (Step 4)
+    * Create queries to test the integrity of `CourseData.db` (Step 4)
 4. Classwork and Homework
     * Watch [K/A 12 lecture (51 minutes)](https://www.dropbox.com/s/grucwj08b1x0m89/ba510_l10_big_data.mp4?dl=0)
     * Watch [DW Design Tips](https://www.dropbox.com/s/j6mmcmwz9pcl7w0/ba510_dw_tips.mp4?dl=0)
