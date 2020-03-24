@@ -8,7 +8,7 @@
     * Create queries to test the integrity of `CourseData.db` (Step 4)
 4. Classwork and Homework
     * Watch [K/A 12 lecture (51 minutes)](https://www.dropbox.com/s/grucwj08b1x0m89/ba510_l10_big_data.mp4?dl=0)
-    * Watch [DW Design Tips](https://www.dropbox.com/s/j6mmcmwz9pcl7w0/ba510_dw_tips.mp4?dl=0)
+    * Watch [DW Design Tips (13 minutes)](https://www.dropbox.com/s/j6mmcmwz9pcl7w0/ba510_dw_tips.mp4?dl=0)
     * Colaborate on Steps 5 and 6 of your projects
     * DataCamp
 
