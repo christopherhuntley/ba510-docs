@@ -1,0 +1,11 @@
+# Agendas
+* [Week 1: Jan 21/22](Week1.md)
+* [Week 2: Jan 28/29](Week2.md)
+* [Week 3: Feb 4/5](Week3.md)
+* [Week 4: Feb 11/12](Week4.md)
+* [Week 5: Feb 18/19](Week5.md)
+* [Week 6: Feb 25/26](Week6.md)
+* [Week 7: Mar 3/4](Week7.md)
+* [Week 8: Mar 17/18](Week8.md)
+* [Week 9: Mar 24/25](Week9.md)
+* [Week 10: Mar 31/Apr 1](Week10.md)
