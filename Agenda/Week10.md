@@ -1,4 +1,4 @@
-## Week 9: March 24/25, 2020
+## Week 10: March 31/April 1, 2020
 
 1. Q&A for [K/A 12](../Slides/L10_Data_Warehousing_and_Business_Intelligence.pdf)
 2. Best practice examples
