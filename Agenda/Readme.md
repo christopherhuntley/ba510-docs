@@ -9,3 +9,4 @@
 * [Week 8: Mar 17/18](Week8.md)
 * [Week 9: Mar 24/25](Week9.md)
 * [Week 10: Mar 31/Apr 1](Week10.md)
+* [Week 11: April 7/8](Week11.md)
