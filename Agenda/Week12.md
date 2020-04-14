@@ -18,7 +18,7 @@
             YOUR SELECT QUERY
             
             ```
-            If you get a huge record count then you messed up. The biggest _sane_ record count given the source data about 300,000. 
+            If you get a huge record count then you messed up. The biggest _sane_ record count given the source data is about 300,000. 
     * `CourseDataWarehouse.db` (Step 5)
         * Scope: What kinds of questions should the DW answer? Be very specific, as this will determine your facts and dimensions.
         * Design: Draw an ERD for each fact table in your DW; dimensions can appear on multiple ERDs.
